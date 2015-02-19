@@ -1,4 +1,4 @@
-IDA Pro Scripts
+DA Pro Scripts
 ===============
 
 Some IDA scripts to assist with reverse engineering
@@ -9,13 +9,13 @@ To install the scripts with all submodules try:
 git clone --recursive https://github.com/neriberto/IDA-Pro-Scripts.git
 ```
 
-Submodules
-----------
+Submodules (included)
+---------------------
 
 * [reversing](https://github.com/arbor/reversing) from [Arbor Networks](https://github.com/arbor)
 
-Another IDA Pro Addons
-----------------------
+Another IDA Pro Addons (not included)
+-------------------------------------
 
 The list above are not include in this repository as submodule
 

@@ -13,6 +13,7 @@ Submodules (included)
 ---------------------
 
 * [reversing](https://github.com/arbor/reversing) from [Arbor Networks](https://github.com/arbor)
+* [func-renamer](https://bitbucket.org/Alexander_Hanel/func-renamer) from [Alexander Hanel](http://hooked-on-mnemonics.blogspot.com)
 
 Another IDA Pro Addons (not included)
 -------------------------------------

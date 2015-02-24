@@ -9,6 +9,13 @@ To install the scripts with all submodules try:
 git clone --recursive https://github.com/neriberto/IDA-Pro-Scripts.git
 ```
 
+IDA Python Scripts
+------------------
+
+* functions_md5.py - Enumerate all functions and print the MD5 hash.
+* strings_base64decode.py - Find for base64 encoded strings.
+* strings_suspicious.py - Uses brute force to find xored strings (I wrote it based on [xor viper module](https://github.com/neriberto/viper/blob/master/modules/xor.py).
+
 Submodules (included)
 ---------------------
 

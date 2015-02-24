@@ -1,3 +1,6 @@
 [submodule "reversing"]
 	path = reversing
 	url = https://github.com/arbor/reversing
+[submodule "func-renamer"]
+	path = func-renamer
+	url = https://bitbucket.org/Alexander_Hanel/func-renamer
